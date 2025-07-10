@@ -2,6 +2,7 @@
 
 This project is a local document-based chatbot that allows users to upload a PDF and ask natural language questions about its content. It supports two powerful approaches for answering questions:
 
+---
 🚀 Key Features
 --
 📄 Upload and parse PDF documents
@@ -18,6 +19,7 @@ This project is a local document-based chatbot that allows users to upload a PDF
 
 ✅ Method 2: HuggingFace Phi-3-mini locally
 
+---
 🛠️ How to Use
 --
 ✅ Method 1: OpenAI GPT-3.5 (Cloud)
